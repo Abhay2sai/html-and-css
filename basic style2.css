@@ -1,0 +1,23 @@
+.id1{
+    border:1px solid lightgray;
+    margin:40px auto;
+    border-radius: 10px;
+    width:300px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 14px;
+}
+.id2{
+    background-color:white;
+    color:blue;
+    border:1px solid lightgray;
+    padding:10px;
+}
+.image{
+    width:100%; 
+    border-top-right-radius: 14px;
+    border-top-left-radius: 14px;
+}
+.id3{
+    padding:30px;
+}
